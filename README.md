@@ -1,3 +1,3 @@
 # GeekBrains
 
-This repository contains geekbrains related projects
+This repository contains GeekBrains related projects
